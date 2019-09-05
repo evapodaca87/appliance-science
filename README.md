@@ -66,4 +66,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
 # appliance-science
+Very basic business website made for Appliance-Science LLC Owner: Daron Houlihan
