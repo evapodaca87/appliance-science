@@ -9,13 +9,16 @@ function App() {
         <img src={logo} className="logo" alt="logo" />
         <h1>Appliance Science</h1>
       </header>
-      <body>
+      <div className="bodies">
         <p>Our goal is to treat every customer as if our world revolves around them.</p>
+      
+         <p> $35 dollar trip charge/diagnostic fee.  Most fixes within 2-3 days. * 
+        </p>
         <p>PLACEHOLDER DESCRIPTION</p>
         <p>Serving Denver, CO and the surrounding metro area</p>
         <p>720-443-7233</p>
         <p>applisci@outlook.com</p>
-      </body>
+      </div>
     </div>
   );
 }

@@ -1,6 +1,7 @@
 .App {
   min-height: 100vh;
   text-align: center;
+  background-color: #282c34;
 }
 
 .App-header {
@@ -23,13 +24,22 @@
 }
 
 h1 {
-  color: #7ddcf7;
+  color: #DAA520;
   font-size: calc(10px + 5vmin);
   margin: 1.5%;
 }
 
+.bodies {
+  color: #DAA520;
+  background-color: #282c34;
+}
+
 .App-link {
   color: #61dafb;
+}
+
+.hr {
+  color: #DAA520;
 }
 
 @keyframes App-logo-spin {
